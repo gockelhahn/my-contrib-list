@@ -4,6 +4,9 @@
 
 | Date | Project/Link | Bug? | Feature? | Patch/Pull Request? | Merged? | Fixed/Closed? |
 | ----:|:-------:|:----:|:--------:|:-------------------:|:-------:|:-------------:|
+| 02/2020 | **file** [⤴](https://bugs.astron.com/view.php?id=140) | ✓ |   |   |   | ✓ |
+| 02/2020 | **file** [⤴](https://bugs.astron.com/view.php?id=139) | ✓ |   |   |   | ✓ |
+| 02/2020 | **file** [⤴](https://bugs.astron.com/view.php?id=138) | ✓ |   |   |   | ✓ |
 | 10/2016 | **lz4** [⤴](https://github.com/lz4/lz4/issues/247) | ✓ |   |   |   | ✓ |
 | 10/2016 | **zstd** [⤴](https://github.com/facebook/zstd/pull/426) | ✓ |   |   |   | ✓ |
 | 08/2015 | **gnuplot** [⤴](https://sourceforge.net/p/gnuplot/bugs/1649/) | ✓ |   |   |   | ✓ |
